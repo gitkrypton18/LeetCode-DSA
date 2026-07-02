@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0148-sort-list) |
