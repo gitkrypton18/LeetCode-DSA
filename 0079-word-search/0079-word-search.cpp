@@ -1,66 +1,68 @@
 class Solution {
 public:
-
     int m, n;
 
-    vector<vector<int>> directions = {
-        {1,0},
-        {-1,0},
-        {0,1},
-        {0,-1}
-    };
+    int dx[4] = {1, -1, 0, 0};
+    int dy[4] = {0, 0, 1, -1};
 
-    bool find(vector<vector<char>> &board,
-              int i,
-              int j,
-              int idx,
-              string &word)
+    bool dfs(vector<vector<char>> &board,
+             int row,
+             int col,
+             int index,
+             const string &word)
     {
-        if(idx == word.size())
+        // Entire word matched
+        if(index == word.size())
             return true;
 
-        if(i < 0 || j < 0 || i >= m || j >= n)
+        // Invalid cell
+        if(row < 0 || col < 0 || row >= m || col >= n)
             return false;
 
-        if(board[i][j] == '#')
+        // Character mismatch or already visited
+        if(board[row][col] != word[index])
             return false;
 
-        if(board[i][j] != word[idx])
-            return false;
+        // Mark visited
+        char temp = board[row][col];
+        board[row][col] = '#';
 
-        char temp = board[i][j];
-        board[i][j] = '#';
-
-        for(auto &dir : directions)
+        // Explore 4 directions
+        for(int k = 0; k < 4; k++)
         {
-            int new_i = i + dir[0];
-            int new_j = j + dir[1];
+            int newRow = row + dx[k];
+            int newCol = col + dy[k];
 
-            if(find(board, new_i, new_j, idx + 1, word))
+            if(dfs(board, newRow, newCol, index + 1, word))
             {
-                board[i][j] = temp;
+                board[row][col] = temp;
                 return true;
             }
         }
 
-        board[i][j] = temp;
+        // Backtrack
+        board[row][col] = temp;
 
         return false;
     }
 
-    bool exist(vector<vector<char>>& board,
-               string word)
+    bool exist(vector<vector<char>>& board, string word)
     {
         m = board.size();
         n = board[0].size();
+
+        if(word.size() > m * n)
+            return false;
 
         for(int i = 0; i < m; i++)
         {
             for(int j = 0; j < n; j++)
             {
                 if(board[i][j] == word[0] &&
-                   find(board, i, j, 0, word))
+                   dfs(board, i, j, 0, word))
+                {
                     return true;
+                }
             }
         }
 
