@@ -28,6 +28,7 @@
 | [0050-powx-n](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1922-count-good-numbers) |
 ## Math
@@ -35,6 +36,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
