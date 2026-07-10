@@ -55,6 +55,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
