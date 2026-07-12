@@ -60,6 +60,7 @@
 | [0225-implement-stack-using-queues](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0141-linked-list-cycle](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0079-word-search](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
