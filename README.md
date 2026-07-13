@@ -61,6 +61,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +163,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
