@@ -64,6 +64,7 @@
 | [0234-palindrome-linked-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@
 | [0216-combination-sum-iii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
@@ -173,4 +175,8 @@
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
