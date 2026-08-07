@@ -77,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0079-word-search](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [0029-divide-two-integers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
