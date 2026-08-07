@@ -132,6 +132,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +187,20 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
