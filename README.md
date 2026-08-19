@@ -13,6 +13,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
@@ -81,6 +82,7 @@
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -176,6 +178,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
