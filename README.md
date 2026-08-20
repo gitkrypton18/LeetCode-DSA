@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0061-rotate-list) |
@@ -135,6 +136,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
