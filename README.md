@@ -89,6 +89,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -120,6 +121,7 @@
 | [0139-word-break](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0917-reverse-only-letters](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -220,6 +222,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
