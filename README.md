@@ -93,6 +93,7 @@
 | [0460-lfu-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0735-asteroid-collision](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -224,6 +226,7 @@
 | [0239-sliding-window-maximum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -261,4 +264,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0460-lfu-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
