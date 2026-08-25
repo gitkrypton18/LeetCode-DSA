@@ -42,6 +42,7 @@
 | [0029-divide-two-integers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@
 | [0496-next-greater-element-i](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -227,6 +230,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +272,5 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/gitkrypton18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
